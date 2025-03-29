@@ -3,5 +3,5 @@ torchvision
 streamlit
 numpy
 pillow
-skimage
+scikit-image
 matplotlib

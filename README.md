@@ -3,6 +3,11 @@ Deep Learning-Based Image Steganography
 
 
 
+You can access the web-app from :-
+https://image-steganography-cnn.streamlit.app/
+
+
+
 📌 Overview
 This project implements an image steganography system using Convolutional Neural Networks (CNNs). The system allows hiding a secret image inside a cover image and later extracting it with minimal loss. Unlike traditional steganography methods, this approach leverages deep learning to achieve higher imperceptibility and robustness.
 

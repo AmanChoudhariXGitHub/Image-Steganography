@@ -47,15 +47,13 @@ This project implements an image steganography system using Convolutional Neural
 
  ┣ 📂 models/                # Saved model weights
 
- ┣ 📂 src/                   # Source code
+ ┃ 📜 train.py             # Model training script
 
- ┃ ┣ 📜 train.py             # Model training script
+ ┃ 📜 inference.py         # Encoding & Decoding script
 
- ┃ ┣ 📜 inference.py         # Encoding & Decoding script
+ ┃ 📜 metrics.py           # Performance evaluation functions
 
- ┃ ┣ 📜 metrics.py           # Performance evaluation functions
-
- ┃ ┣ 📜 utils.py             # Helper functions
+ ┃ 📜 utils.py             # Helper functions
 
  ┣ 📜 app.py                 # Streamlit Web App
 
